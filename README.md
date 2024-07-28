@@ -22,4 +22,4 @@ You are going to define a new way of storing a string. This new msString data ty
 You must write a C module that implements these functions, without changing the prototypes or definitions.
 
 ## Other:
-There is also a file titled 'compile' which is essentially a Makefile, which can be run in a Linux terminal to build the project for use.
+There is also a file titled 'compile' which is essentially a Makefile, which can be run in a Linux terminal to build the project for use. This project received a 98%
